@@ -34,7 +34,7 @@ function App() {
                 </div>
                 <div className="area">
                     <Routes>
-                        <Route path="/SmartReportSystem" exact element={<LoginPage />}></Route>
+                        <Route path="/" exact element={<LoginPage />}></Route>
                         <Route path="/SmartReportSystem/signUp" exact element={<SignUpPage />}></Route>
                         <Route path="/SmartReportSystem/citizenApp" exact element={<CitizenApp />}></Route>
                         <Route path="/SmartReportSystem/citizenApp/cityMap" exact element={<CityMapWrapper />}></Route>
