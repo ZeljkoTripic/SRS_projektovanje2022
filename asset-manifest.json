@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SRS_projektovanje2022/static/css/main.002a75bb.css",
-    "main.js": "/SRS_projektovanje2022/static/js/main.64c21e7e.js",
+    "main.js": "/SRS_projektovanje2022/static/js/main.19908936.js",
     "static/js/787.2b32db23.chunk.js": "/SRS_projektovanje2022/static/js/787.2b32db23.chunk.js",
     "static/media/work.png": "/SRS_projektovanje2022/static/media/work.3bfc58d3d716d93dd823.png",
     "static/media/logout.png": "/SRS_projektovanje2022/static/media/logout.c18cd0484efa8c7ec680.png",
@@ -18,11 +18,11 @@
     "static/media/history.png": "/SRS_projektovanje2022/static/media/history.c7ef7dc741df54cc7474.png",
     "index.html": "/SRS_projektovanje2022/index.html",
     "main.002a75bb.css.map": "/SRS_projektovanje2022/static/css/main.002a75bb.css.map",
-    "main.64c21e7e.js.map": "/SRS_projektovanje2022/static/js/main.64c21e7e.js.map",
+    "main.19908936.js.map": "/SRS_projektovanje2022/static/js/main.19908936.js.map",
     "787.2b32db23.chunk.js.map": "/SRS_projektovanje2022/static/js/787.2b32db23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.002a75bb.css",
-    "static/js/main.64c21e7e.js"
+    "static/js/main.19908936.js"
   ]
 }
