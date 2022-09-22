@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SRS_projektovanje2022/static/css/main.002a75bb.css",
+    "main.js": "/SRS_projektovanje2022/static/js/main.64c21e7e.js",
+    "static/js/787.2b32db23.chunk.js": "/SRS_projektovanje2022/static/js/787.2b32db23.chunk.js",
+    "static/media/work.png": "/SRS_projektovanje2022/static/media/work.3bfc58d3d716d93dd823.png",
+    "static/media/logout.png": "/SRS_projektovanje2022/static/media/logout.c18cd0484efa8c7ec680.png",
+    "static/media/amblem.png": "/SRS_projektovanje2022/static/media/amblem.7fb4c4bbd1b558c294c4.png",
+    "static/media/user.png": "/SRS_projektovanje2022/static/media/user.5ab38018465cc3014099.png",
+    "static/media/decline.png": "/SRS_projektovanje2022/static/media/decline.7cd13902f49ae35ad659.png",
+    "static/media/map.png": "/SRS_projektovanje2022/static/media/map.722f7f65e4bdfa2e85d7.png",
+    "static/media/danger.png": "/SRS_projektovanje2022/static/media/danger.4265550625dfddb97ddb.png",
+    "static/media/report.png": "/SRS_projektovanje2022/static/media/report.7efa831d7711a1f7bf36.png",
+    "static/media/assignment2.png": "/SRS_projektovanje2022/static/media/assignment2.eb080c286c298997a4be.png",
+    "static/media/plus.png": "/SRS_projektovanje2022/static/media/plus.b84230fa5aabcef5ec9a.png",
+    "static/media/accept.png": "/SRS_projektovanje2022/static/media/accept.0eef3a7a1278a95d113f.png",
+    "static/media/info.png": "/SRS_projektovanje2022/static/media/info.c7f895f24a3792c351e9.png",
+    "static/media/history.png": "/SRS_projektovanje2022/static/media/history.c7ef7dc741df54cc7474.png",
+    "index.html": "/SRS_projektovanje2022/index.html",
+    "main.002a75bb.css.map": "/SRS_projektovanje2022/static/css/main.002a75bb.css.map",
+    "main.64c21e7e.js.map": "/SRS_projektovanje2022/static/js/main.64c21e7e.js.map",
+    "787.2b32db23.chunk.js.map": "/SRS_projektovanje2022/static/js/787.2b32db23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002a75bb.css",
+    "static/js/main.64c21e7e.js"
+  ]
+}
